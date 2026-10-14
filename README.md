@@ -16,6 +16,7 @@ Escáner de red local en bash. Detecta hosts activos por trazas ICMP y les hace 
 ## Uso
 
 ```bash
-git clone
+git clone https://github.com/RootFor0x1337/LocalScan.git
+cd LocalScan
 chmod +x localscan
 sudo ./localscan   
